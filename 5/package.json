@@ -1,0 +1,20 @@
+{
+  "name": "4",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Mark Stevens <mdstevens94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.41.6"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.3",
+    "webpack-cli": "^3.3.11"
+  }
+}

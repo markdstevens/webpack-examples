@@ -1,0 +1,16 @@
+{
+  "name": "4",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Mark Stevens <mdstevens94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.41.6"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
