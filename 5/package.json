@@ -5,7 +5,7 @@
   "author": "Mark Stevens <mdstevens94@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "webpack": "^4.41.6"
   },
   "scripts": {
